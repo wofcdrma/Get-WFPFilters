@@ -1,5 +1,5 @@
 # Get-WFPFilters
-Get-WFPFilters is a PowerShell function which grabs your Windows Firewall WFP filters and parses out provider data in an easy-to-read object.
+Get-WFPFilters is a PowerShell function which grabs the count of your Windows Firewall WFP filters and parses out provider data in an easy-to-read object.
 <br>
 <br>
 This function was particularly useful when I was troubleshooting network connectivity issues being caused by the Cloudflare WARP client logic handling Windows Firewall filters.
